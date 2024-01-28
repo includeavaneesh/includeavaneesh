@@ -1,5 +1,5 @@
 ![MasterHead](banner.png)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=includeavaneesh&theme=transparent)](https://git.io/streak-stats)
 **includeavaneesh/includeavaneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
