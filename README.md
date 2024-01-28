@@ -1,4 +1,4 @@
-[![MasterHead](header.png)](your GitHub link)
+![MasterHead](banner.png)
 
 **includeavaneesh/includeavaneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
